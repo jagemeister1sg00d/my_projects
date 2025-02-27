@@ -1,2 +1,2 @@
 # my_projects
-repository with my projects
+This repository contains my HTML and CSS projects.
